@@ -25,3 +25,6 @@ git commit -m "text"
 git push -u origin feature/NameExample
 ### Merge dev
 далі коли ти закінчив розробляти фічу, натискаєш в гітхабі на "Compare & pull request" тільки уважно, там будуть комірки вибору гілок, по дефолту main, став dev.
+
+### після клону репи
+npm install - і всі пакети встановляться
